@@ -5,7 +5,7 @@
 [![Queries](https://img.shields.io/badge/Queries-50%20Business%20Solutions-orange.svg)](#5-sql-analysis-key-insights--visualization-guide)
 [![Level](https://img.shields.io/badge/Portfolio-Recruiter--Ready-brightgreen.svg)](#8-resume--portfolio-bullet-points)
 
-**Author**: Danish Shaikh | Senior Data Analyst Project  
+**Author**: Danish Shaikh | Data Analyst Project  
 **LinkedIn**: [Danish Shaikh](https://www.linkedin.com/in/danish-shaikh-02750018b/) | **Email**: [danishshaikh2122@gmail.com](mailto:danishshaikh2122@gmail.com)
 
 ---
@@ -386,7 +386,7 @@ ORDER BY total_volume DESC;
 
 ## 📄 License & Career Portfolio Contact
 
-Created by **Danish Shaikh** (Senior Data Analyst) as a production portfolio project suitable for GitHub, LinkedIn, and Technical Job Applications.
+Created by **Danish Shaikh** (Data Analyst) as a production portfolio project suitable for GitHub, LinkedIn, and Technical Job Applications.
 
 - **LinkedIn**: [Danish Shaikh](https://www.linkedin.com/in/danish-shaikh-02750018b/)
 - **Email**: [danishshaikh2122@gmail.com](mailto:danishshaikh2122@gmail.com)
